@@ -737,7 +737,3 @@ This project is part of the SYFE Infrastructure Intern assignment.
 [⬆ Back to Top](#-production-wordpress-on-kubernetes)
 
 </div>
-EOF
-echo "   3. View on GitHub for full visual experience!"
-echo ""
-echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
