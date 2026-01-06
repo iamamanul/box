@@ -658,7 +658,7 @@ This project is part of the SYFE Infrastructure Intern assignment.
 
 ### 🎉 **PROJECT STATUS: COMPLETED**
 
-**Last Updated:** $(6 JAN)  
+**Last Updated:** 6 JAN 
 **All Requirements:** ✅ Verified and Operational
 
 [⬆ Back to Top](#-production-wordpress-on-kubernetes)
