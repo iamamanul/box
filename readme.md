@@ -11,7 +11,7 @@
 
 **SYFE Infrastructure Intern Assignment - Complete Production Solution**
 
-[📋 Features](#-features) · [🚀 Quick Start](#-quick-start) · [📊 Monitoring](#-monitoring-stack) · [🔧 Architecture](#-architecture)
+[📋 Features](#-features) · [🚀 Quick Start](#-quick-start) · [📊 Monitoring](#-monitoring-stack) · [🏗️ Architecture](#️-architecture)
 
 ---
 
